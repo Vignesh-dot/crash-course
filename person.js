@@ -5,5 +5,6 @@ class Person {
   walk() {
     console.log("walk");
     console.log("Run Fast");
+    console.log("sleep");
   }
 }

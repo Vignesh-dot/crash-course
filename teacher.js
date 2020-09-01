@@ -7,5 +7,9 @@ export class Teacher extends Person {
   }
   teach() {
     console.log("teach");
+    console.log("Give Exam");
+  }
+  teach(x) {
+    console.log(x);
   }
 }
