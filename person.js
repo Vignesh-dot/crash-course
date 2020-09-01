@@ -4,5 +4,6 @@ class Person {
   }
   walk() {
     console.log("walk");
+    console.log("Run Fast");
   }
 }
